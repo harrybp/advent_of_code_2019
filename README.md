@@ -31,4 +31,6 @@ Asteroid belt. Have to work out which asteroids are obstructing the line of sigh
 Use intcode interpretter as a controller for a robot. 
 ### Day 12
 Update velocity and position of moons in time-steps. Key to part2 is realising that x,y and z are all independent.
+### Day 13
+Use the intcode interpretter to play a block-breaker game, providing controls as input and recieve coordinates of game peices as output. Have to code simple AI to hit the ball with the paddle.
 
