@@ -27,4 +27,8 @@ Easy one. Have to process the input as a series of image layers to reveal a secr
 Adding relative addressing to the intcode interpretter. Weirdly part 2 required no extra work at all.
 ### Day 10
 Asteroid belt. Have to work out which asteroids are obstructing the line of sight of which others from their coordinates. For part 2 have to order those which are in sight by their location relative to us.
+### Day 11
+Use intcode interpretter as a controller for a robot. 
+### Day 12
+Update velocity and position of moons in time-steps. Key to part2 is realising that x,y and z are all independent.
 
